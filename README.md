@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dikaa orbx</h1>
-<h3 align="center">a student from a vocational high school.</h3>
+<h3 align="center">
+  HELLO WORLD.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F714&width=435&lines=Hii+!+Welcome+to+my+GitHub+profile.;My+name+is+Nobi+Nobii+;a+student+in+SMK+N+1+Kejobong+Highschool+;Nobii+is+my+fav+character+from+Doraemon!!" alt="Typing SVG" /></a>
+</p>
 
+#💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="36">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikaorbxxzz&label=Profile%20views&color=0e75b6&style=flat" alt="dikaorbxxzz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikaorbxxzz" alt="dikaorbxxzz" /></a> </p>
