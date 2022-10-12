@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F714&width=435&lines=Hii+!+Welcome+to+my+GitHub+profile.;My+name+is+Nobi+Nobii+;a+student+in+SMK+N+1+Kejobong+Highschool+;Nobii+is+my+fav+character+from+Doraemon!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F700&width=435&lines=Hii+!+Welcome+To+My+GitHub+Profile.;My+name+is+Nobi+Nobii;I+am+a+student+in+SMK+N+1+Kejobong+;Nobii+is+my+fav+char+from+Doraemon" alt="Typing SVG" /></a>
 </p>
 
 #💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="36">
