@@ -6,6 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F700&width=435&lines=Hii+!+Welcome+To+My+GitHub+Profile.;My+name+is+Nobi+Nobii;I+am+a+student+in+SMK+N+1+Kejobong+;Nobii+is+my+fav+char+from+Doraemon" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+
 # 💫About Me :
 🌱 I’m currently learning : Software Enginering
 
@@ -25,9 +27,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/d21kaaprlds_)
 
 # 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%233333FF.svg?style=for-the-badge&logo=PHP&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikaorbxxzz&show_icons=true&locale=en&layout=compact" alt="dikaorbxxzz" /></p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%233333FF.svg?style=for-the-badge&logo=PHP&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-FFF?style=for-the-badge&logo=react&logoColor=A86454)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikaorbxxzz&show_icons=true&locale=en" alt="dikaorbxxzz" /></p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=dikaorbxxzz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dikaorbxxzz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikaorbxxzz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikaorbxxzz&" alt="dikaorbxxzz" /></p>
+</div>
