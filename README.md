@@ -20,7 +20,8 @@
   📫 How to reach me:  
   DM to my instagram at "d21kaaprlds_"
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikaorbxxzz" alt="dikaorbxxzz" /></a> </p>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dikaorbxxzz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐Socials
