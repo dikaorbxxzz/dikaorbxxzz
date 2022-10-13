@@ -11,7 +11,7 @@
 # 💫About Me :
 🌱 I’m currently learning : Software Enginering
 
- 🎞 I’m Student in SMK N ! KEJOBONG
+ 🎞 I’m Student in SMK N 1 KEJOBONG
 
   🤔 I’m Weeboo
 
