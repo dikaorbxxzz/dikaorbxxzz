@@ -6,7 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F700&width=435&lines=Hii+!+Welcome+To+My+GitHub+Profile.;My+name+is+Nobi+Nobii;I+am+a+student+in+SMK+N+1+Kejobong+;Nobii+is+my+fav+char+from+Doraemon" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
 
 # 💫About Me :
 🌱 I’m currently learning : Software Enginering
@@ -17,9 +16,10 @@
 
   💬 Ask me about for any help
 
-  📫 How to reach me:  
-  DM to my instagram at "d21kaaprlds_"
+  📫 How to reach me : dikaorbx@gmail.com
   
+<div align="center"> 
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dikaorbxxzz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
