@@ -8,7 +8,7 @@
 
 
 # 💫About Me :
-🌱 I’m currently learning : Software Enginering
+🌱 I’m currently learning : Software Engineering
 
  🎞 I’m Student in SMK N 1 KEJOBONG
 
